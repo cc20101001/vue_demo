@@ -25,7 +25,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App! 来看一下我的web应用怎么样呢？'
+      msg: '欢迎参观我的git项目vue.'
     }
   }
 }
